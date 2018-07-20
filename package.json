@@ -1,6 +1,6 @@
 {
-  "name": "pomelo-protocol",
-  "version": "0.1.6",
+  "name": "@yangfch3/pomelo-protocol",
+  "version": "0.0.1",
   "private": false,
   "dependencies": {},
   "devDependencies": {
